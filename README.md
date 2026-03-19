@@ -1,0 +1,1 @@
+The technical approach, including custom logic for ASR hallucination filtering and dynamic segment bridging, has been thoroughly explained within dedicated Google Colab text blocks for full transparency.
